@@ -1,1 +1,2 @@
 print ("Good bay my friend")
+print ("Good bay my love");
