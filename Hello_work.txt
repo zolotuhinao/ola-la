@@ -1,1 +1,2 @@
 Print("Hello work!");
+print ("hello my dear friend");
